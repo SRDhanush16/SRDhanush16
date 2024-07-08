@@ -6,8 +6,8 @@ Java Full-Stack Web Developer, Microsoft Certified Azure Administrator Associate
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srd-in-maa/) 
 <br/>
 
-<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
-[![Leetcode](https://icons8.com/icon/9L16NypUzu38/level-up-your-coding-skills-and-quickly-land-a-job)](https://leetcode.com/u/SRDhanush16/)
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>(https://leetcode.com/u/SRDhanush16/)
+
 <div style="display: flex; justify-content: left;" >
   <img src="https://leetcard.jacoblin.cool/SRDhanush16?theme=dark&font=Electrolize&ext=activity" style="height: 300px; width: 600px;">
 </div>

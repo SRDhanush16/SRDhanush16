@@ -15,9 +15,15 @@ Java Full-Stack Web Developer, Microsoft Certified Azure Administrator Associate
 
 
 # 📊 GitHub Stats:
+<!-- 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SRDhanush16&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=SRDhanush16&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
 
+-->
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRDhanush16&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 195px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SRDhanush16&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" style="height: 195px;">
+</div>
 
 
 

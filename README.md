@@ -4,7 +4,7 @@ Java Full-Stack Web Developer, Microsoft Certified Azure Administrator Associate
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srd-in-maa/) 
-<br>
+<br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SRDhanush16?theme=dark&font=Electrolize&ext=activity)
 
 # 💻 Tech Stack:
@@ -15,9 +15,9 @@ Java Full-Stack Web Developer, Microsoft Certified Azure Administrator Associate
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SRDhanush16&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SRDhanush16&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SRDhanush16&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SRDhanush16&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
+
 
 
 

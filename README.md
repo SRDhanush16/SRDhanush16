@@ -5,7 +5,7 @@ Java Full-Stack Web Developer, Microsoft Certified Azure Administrator Associate
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srd-in-maa/) 
 <br/>
-<div>
+<div style="display: flex; justify-content: left;" >
   <img src="https://leetcard.jacoblin.cool/SRDhanush16?theme=dark&font=Electrolize&ext=activity" style="height: 300px; width: 600px;">
 </div>
 

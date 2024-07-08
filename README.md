@@ -2,7 +2,7 @@
 Java Full-Stack Web Developer, Microsoft Certified Azure Administrator Associate. Versatile and ready to dedicate my fullest. I approach challenges with a resilient mindset, ensuring that setbacks become opportunities for growth and continuous improvement. Curiosity to explore different domains has made me proficient in them. 
 
 # 💻 Tools & Frameowrk:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,java,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,java,py&theme=light)](https://skillicons.dev)
 
 
 
